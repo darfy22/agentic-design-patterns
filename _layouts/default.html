@@ -605,6 +605,7 @@
     </script>
   {% endif %}
   <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
+  {% assign md_filename = page.path | split: '/' | last | split: '.' | first %}
   <script type="module">
     import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
 
@@ -615,7 +616,9 @@
       chatInputKey: 'chatInput',
       chatSessionKey: 'sessionId',
       loadPreviousSession: true,
-      metadata: {},
+      metadata: {
+        title: '{{ md_filename }}'
+      },
       showWelcomeScreen: false,
       defaultLanguage: 'cn',
       initialMessages: [
