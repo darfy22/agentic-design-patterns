@@ -343,7 +343,7 @@ OpenRouter 提供详细的排行榜（[https://openrouter.ai/rankings](https://o
 
 ## 参考文献
 
-1. Google's智能体velopment Kit (ADK): [https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)
+1. Google 的智能体开发工具包 (ADK): [https://google.github.io/adk-docs/](https://google.github.io/adk-docs/)
 2. Gemini Flash 2.5 & Gemini 2.5 Pro:  [https://aistudio.google.com/](https://aistudio.google.com/)
 3. OpenRouter: [https://openrouter.ai/docs/quickstart](https://openrouter.ai/docs/quickstart)
 

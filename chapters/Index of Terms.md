@@ -76,328 +76,328 @@
 
 **A**
 
-* A/B Testing(A/B 测试) - 第 3 章：并行化
-* Action Selection(行动选择) - 第 20 章：优先级排序
-* Adaptation(适应) - 第 9 章：学习与适应
-* Adaptive Task Allocation(自适应任务分配) - 第 16 章：资源感知优化
-* Adaptive Tool Use & Selection(自适应工具使用与选择) - 第 16 章：资源感知优化
-*智能体什么使 AI 系统成为 Agent？
-* Agent-Computer Interfaces (ACIs)(计算机接口（）) - 附录 B
-* Agent-Driven Economy(Agent 驱动型经济) - 什么使 AI 系统成为 Agent？
-*智能体 a Tool(Agent 作为工具) - 第 7 章：多智能智能体
-*智能体rds(Agent 卡片) - 第 15 章：Agent 间通信（A2A）
-*智能体velopment Kit（ADK）- 第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 7 章：多智能智能体 8 章：记忆管理，第 12 章：异常处理与恢复，第 13 章：人机协同，第 15 章：Agent 间通信（A2A），第 16 章：资源感知优化，第 19 章：评估与监控，附录 C
-*智能体velopment Kit (ADK)(Agent 发现) - 第 15 章：Agent 间通信（A2A）
-*智能体scovery(Agent 轨迹) - 第 19 章：评估与监控
-*智能体ajectories(Agentic 设计模式) - 引言
-* Agentic Design Patterns - 第 14 章：知识检索（RAG）
-* Agentic RAG(Agentic 系统) - 引言
-* Agentic Systems(AI 联合科学家) - 第 21 章：探索与发现
-* AI Co-scientist(对齐) - 术语表
-* Alignment - 第 9 章：学习与适应
-* AlphaEvolve(类比) - 附录 A
-* Analogies(异常检测) - 第 19 章：评估与监控
-* Anomaly Detection(Anthropic's Claude 4 系列) - 附录 B
-* Anthropic's Claude 4 Series - 附录 B
-* Anthropic's Computer Use(API 交互) - 第 10 章：模型上下文协议（MCP）
-* API Interaction(工件) - 第 15 章：Agent 间通信（A2A）
-* Artifacts(异步轮询) - 第 15 章：Agent 间通信（A2A）
-* Asynchronous Polling(审计日志) - 第 15 章：Agent 间通信（A2A）
-* Audit Logs(自动化指标) - 第 19 章：评估与监控
-* 自动提示工程（APE）- 附录 A
-* Automated Metrics(自主性) - 引言
-* Automatic Prompt Engineering (APE) - 第 15 章：Agent 间通信（A2A）
+* A/B 测试(A/B Testing) - 第 3 章：并行化
+* 行动选择(Action Selection) - 第 20 章：优先级排序
+* 适应(Adaptation) - 第 9 章：学习与适应
+* 自适应任务分配(Adaptive Task Allocation) - 第 16 章：资源感知优化
+* 自适应工具使用与选择(Adaptive Tool Use &amp; Selection) - 第 16 章：资源感知优化
+* 智能体(Agent) - 什么使 AI 系统成为 Agent？
+* Agent-计算机接口(Agent-Computer Interfaces, ACIs) - 附录 B
+* Agent 驱动型经济(Agent-Driven Economy) - 什么使 AI 系统成为 Agent？
+* Agent 作为工具(Agent as a Tool) - 第 7 章：多智能体协作
+* Agent 卡片(Agent Cards) - 第 15 章：Agent 间通信（A2A）
+* 智能体开发工具包(Agent Development Kit, ADK) - 第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 7 章：多智能体协作，第 8 章：记忆管理，第 12 章：异常处理与恢复，第 13 章：人机协同，第 15 章：Agent 间通信（A2A），第 16 章：资源感知优化，第 19 章：评估与监控，附录 C
+* Agent 发现(Agent Discovery) - 第 15 章：Agent 间通信（A2A）
+* Agent 轨迹(Agent Trajectories) - 第 19 章：评估与监控
+* Agentic 设计模式(Agentic Design Patterns) - 引言
+* Agentic RAG(Agentic RAG) - 第 14 章：知识检索（RAG）
+* Agentic 系统(Agentic Systems) - 引言
+* AI 联合科学家(AI Co-scientist) - 第 21 章：探索与发现
+* 对齐(Alignment) - 术语表
+* AlphaEvolve(AlphaEvolve) - 第 9 章：学习与适应
+* 类比(Analogies) - 附录 A
+* 异常检测(Anomaly Detection) - 第 19 章：评估与监控
+* Anthropic's Claude 4 系列(Anthropic's Claude 4 Series) - 附录 B
+* Anthropic's 计算机使用(Anthropic's Computer Use) - 附录 B
+* API 交互(API Interaction) - 第 10 章：模型上下文协议（MCP）
+* 工件(Artifacts) - 第 15 章：Agent 间通信（A2A）
+* 异步轮询(Asynchronous Polling) - 第 15 章：Agent 间通信（A2A）
+* 审计日志(Audit Logs) - 第 15 章：Agent 间通信（A2A）
+* 自动化指标(Automated Metrics) - 第 19 章：评估与监控
+* 自动提示工程(Automatic Prompt Engineering, APE) - 附录 A
+* 自主性(Autonomy) - 引言
+* A2A（Agent 间通信）(A2A, Agent-to-Agent) - 第 15 章：Agent 间通信（A2A）
 
 **B**
 
-* Behavioral Constraints(行为约束) - 第 18 章：护栏/安全模式
-* Browser Use(浏览器使用) - 附录 B
+* 行为约束(Behavioral Constraints) - 第 18 章：护栏/安全模式
+* 浏览器使用(Browser Use) - 附录 B
 
 **C**
 
-* Callbacks(回调) - 第 18 章：护栏/安全模式
-* 因果语言建模（CLM）- 术语表
-* 辩论链（CoD）- 第 17 章：推理技术
-* 思维链（CoT）- 第 17 章：推理技术，附录 A
-* Causal Language Modeling (CLM)(聊天机器人) - 第 8 章：记忆管理
-* Chain of Debates (CoD) - 第 8 章：记忆管理
-* Chain-of-Thought (CoT)(检查点与回滚) - 第 18 章：护栏/安全模式
-* Chatbots(分块) - 第 14 章：知识检索（RAG）
-* ChatMessageHistory(清晰性和具体性) - 附录 A
-* Checkpoint and Rollback(客户端 Agent) - 第 15 章：Agent 间通信（A2A）
-* Chunking(代码生成) - 第 1 章：提示链，第 4 章：反思
-* Clarity and Specificity(代码提示) - 附录 A
-* CoD（辩论链）- 第 17 章：推理技术
-* CoT（思维链）- 第 17 章：推理技术，附录 A
-* Client Agent(协作) - 第 7 章：多智能体
-* Code Generation(合规性) - 第 19 章：评估与监控
-* Code Prompting(简洁性) - 附录 A
-* CoD (Chain of Debates)(内容生成) - 第 1 章：提示链，第 4 章：反思
-* CoT (Chain of Thought)(上下文工程) - 第 1 章：提示链
-* Collaboration(上下文窗口) - 术语表
-* Compliance(上下文修剪与摘要) - 第 16 章：资源感知优化
-* Conciseness(上下文提示) - 附录 A
-* Content Generation(承包商模型) - 第 19 章：评估与监控
-* Context Engineering - 第 8 章：记忆管理
-* Context Window(对话式 Agent) - 第 1 章：提示链，第 4 章：反思
-* Contextual Pruning & Summarization(成本敏感探索) - 第 16 章：资源感知优化
-* Contextual Prompting - 第 3 章：并行化，第 5 章：工具使用，第 6 章：规划，第 7 章：多智能体，第 18 章：护栏/安全模式，附录 C
-* Contractor Model(批评 Agent) - 第 16 章：资源感知优化
-* ConversationBufferMemory(批评模型) - 术语表
-* Conversational Agents(客户支持) - 第 13 章：人机协同
+* 回调(Callbacks) - 第 18 章：护栏/安全模式
+* 因果语言建模(Causal Language Modeling, CLM) - 术语表
+* 辩论链(Chain of Debates, CoD) - 第 17 章：推理技术
+* 思维链(Chain-of-Thought, CoT) - 第 17 章：推理技术，附录 A
+* 聊天机器人(Chatbots) - 第 8 章：记忆管理
+* ChatMessageHistory(ChatMessageHistory) - 第 8 章：记忆管理
+* 检查点与回滚(Checkpoint and Rollback) - 第 18 章：护栏/安全模式
+* 分块(Chunking) - 第 14 章：知识检索（RAG）
+* 清晰性和具体性(Clarity and Specificity) - 附录 A
+* 客户端 Agent(Client Agent) - 第 15 章：Agent 间通信（A2A）
+* 代码生成(Code Generation) - 第 1 章：提示链，第 4 章：反思
+* 代码提示(Code Prompting) - 附录 A
+* CoD（辩论链）(CoD, Chain of Debates) - 第 17 章：推理技术
+* CoT（思维链）(CoT, Chain of Thought) - 第 17 章：推理技术，附录 A
+* 协作(Collaboration) - 第 7 章：多智能体协作
+* 合规性(Compliance) - 第 19 章：评估与监控
+* 简洁性(Conciseness) - 附录 A
+* 内容生成(Content Generation) - 第 1 章：提示链，第 4 章：反思
+* 上下文工程(Context Engineering) - 第 1 章：提示链
+* 上下文窗口(Context Window) - 术语表
+* 上下文修剪与摘要(Contextual Pruning &amp; Summarization) - 第 16 章：资源感知优化
+* 上下文提示(Contextual Prompting) - 附录 A
+* 承包商模型(Contractor Model) - 第 19 章：评估与监控
+* ConversationBufferMemory(ConversationBufferMemory) - 第 8 章：记忆管理
+* 对话式 Agent(Conversational Agents) - 第 1 章：提示链，第 4 章：反思
+* 成本敏感探索(Cost-Sensitive Exploration) - 第 16 章：资源感知优化
+* CrewAI(CrewAI) - 第 3 章：并行化，第 5 章：工具使用，第 6 章：规划，第 7 章：多智能体协作，第 18 章：护栏/安全模式，附录 C
+* 批评 Agent(Critique Agent) - 第 16 章：资源感知优化
+* 批评模型(Critique Model) - 术语表
+* 客户支持(Customer Support) - 第 13 章：人机协同
 
 **D**
 
-* Data Extraction(数据提取) - 第 1 章：提示链
-* Data Labeling(数据标注) - 第 13 章：人机协同
-* Database Integration(数据库集成) - 第 10 章：模型上下文协议（MCP）
-* DatabaseSessionService - 第 8 章：记忆管理
-* Debate and Consensus(辩论与共识) - 第 7 章：多智能体
-* Decision Augmentation(决策增强) - 第 13 章：人机协同
-* Decomposition(分解) - 附录 A
-* Deep Research(深度研究) - 第 6 章：规划，第 17 章：推理技术，术语表
-* Delimiters(分隔符) - 附录 A
-* Denoising Objectives(去噪目标) - 术语表
-* Dependencies(依赖关系) - 第 20 章：优先级排序
-* Diffusion Models(扩散模型) - 术语表
-* 直接偏好优化（DPO）- 第 9 章：学习与适应
-* Direct Preference Optimization (DPO)(可发现性) - 第 10 章：模型上下文协议（MCP）
-* Discoverability(漂移检测) - 第 19 章：评估与监控
-* Drift Detection(动态模型切换) - 第 16 章：资源感知优化
-* Dynamic Model Switching(动态重新优先级排序) - 第 20 章：优先级排序
+* 数据提取(Data Extraction) - 第 1 章：提示链
+* 数据标注(Data Labeling) - 第 13 章：人机协同
+* 数据库集成(Database Integration) - 第 10 章：模型上下文协议（MCP）
+* DatabaseSessionService(DatabaseSessionService) - 第 8 章：记忆管理
+* 辩论与共识(Debate and Consensus) - 第 7 章：多智能体协作
+* 决策增强(Decision Augmentation) - 第 13 章：人机协同
+* 分解(Decomposition) - 附录 A
+* 深度研究(Deep Research) - 第 6 章：规划，第 17 章：推理技术，术语表
+* 分隔符(Delimiters) - 附录 A
+* 去噪目标(Denoising Objectives) - 术语表
+* 依赖关系(Dependencies) - 第 20 章：优先级排序
+* 扩散模型(Diffusion Models) - 术语表
+* 直接偏好优化(Direct Preference Optimization, DPO) - 第 9 章：学习与适应
+* 可发现性(Discoverability) - 第 10 章：模型上下文协议（MCP）
+* 漂移检测(Drift Detection) - 第 19 章：评估与监控
+* 动态模型切换(Dynamic Model Switching) - 第 16 章：资源感知优化
+* 动态重新优先级排序(Dynamic Re-prioritization) - 第 20 章：优先级排序
 
 **E**
 
-* Embeddings(嵌入) - 第 14 章：知识检索（RAG）
-* Embodiment(具身化) - 什么使 AI 系统成为 Agent？
-* Energy-Efficient Deployment(节能部署) - 第 16 章：资源感知优化
-* Episodic Memory(情景记忆) - 第 8 章：记忆管理
-* Error Detection(错误检测) - 第 12 章：异常处理与恢复
-* Error Handling(错误处理) - 第 12 章：异常处理与恢复
-* Escalation Policies(升级策略) - 第 13 章：人机协同
-* Evaluation(评估) - 第 19 章：评估与监控
-* Exception Handling(异常处理) - 第 12 章：异常处理与恢复
-* Expert Teams(专家团队) - 第 7 章：多智能体
-* Exploration and Discovery(探索与发现) - 第 21 章：探索与发现
-* External Moderation APIs(外部审核 API) - 第 18 章：护栏/安全模式
+* 嵌入(Embeddings) - 第 14 章：知识检索（RAG）
+* 具身化(Embodiment) - 什么使 AI 系统成为 Agent？
+* 节能部署(Energy-Efficient Deployment) - 第 16 章：资源感知优化
+* 情景记忆(Episodic Memory) - 第 8 章：记忆管理
+* 错误检测(Error Detection) - 第 12 章：异常处理与恢复
+* 错误处理(Error Handling) - 第 12 章：异常处理与恢复
+* 升级策略(Escalation Policies) - 第 13 章：人机协同
+* 评估(Evaluation) - 第 19 章：评估与监控
+* 异常处理(Exception Handling) - 第 12 章：异常处理与恢复
+* 专家团队(Expert Teams) - 第 7 章：多智能体协作
+* 探索与发现(Exploration and Discovery) - 第 21 章：探索与发现
+* 外部审核 API(External Moderation APIs) - 第 18 章：护栏/安全模式
 
 **F**
 
-* Factored Cognition(因子化认知) - 附录 A
-* FastMCP - 第 10 章：模型上下文协议（MCP）
-* Fault Tolerance(容错) - 第 18 章：护栏/安全模式
-* Few-Shot Learning(少样本学习) - 第 9 章：学习与适应
-* Few-Shot Prompting(少样本提示) - 附录 A
-* Fine-tuning(微调) - 术语表
-* Formalized Contract(正式化合同) - 第 19 章：评估与监控
-* Function Calling(函数调用) - 第 5 章：工具使用，附录 A
+* 因子化认知(Factored Cognition) - 附录 A
+* FastMCP(FastMCP) - 第 10 章：模型上下文协议（MCP）
+* 容错(Fault Tolerance) - 第 18 章：护栏/安全模式
+* 少样本学习(Few-Shot Learning) - 第 9 章：学习与适应
+* 少样本提示(Few-Shot Prompting) - 附录 A
+* 微调(Fine-tuning) - 术语表
+* 正式化合同(Formalized Contract) - 第 19 章：评估与监控
+* 函数调用(Function Calling) - 第 5 章：工具使用，附录 A
 
 **G**
 
-* Gemini Live - 附录 B
-* Gems - 附录 A
-* Generative Media Orchestration(生成媒体编排) - 第 10 章：模型上下文协议（MCP）
-* Goal Setting(目标设定) - 第 11 章：目标设定与监控
-* GoD（辩论图）- 第 17 章：推理技术
-* Google智能体velopment Kit（ADK）- 第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 7 章：多智能智能体 8 章：内存管理，第 12 章：异常处理与恢复，第 13 章：人机协同，第 15 章：Agent 间通信（A2A），第 16 章：资源感知优化，第 19 章：评估与监控，附录 C
-* GoD (Graph of Debates)(Google 联合科学家) - 第 21 章：探索与发现
-* Google智能体velopment Kit (ADK) - 第 6 章：规划
-* Google Co-Scientist - 附录 B
-* Google DeepResearch(优雅降级) - 第 12 章：异常处理与恢复，第 16 章：资源感知优化
-* 辩论图（GoD）- 第 17 章：推理技术
-* Google Project Mariner(基础化) - 术语表
-* Graceful Degradation(护栏) - 第 18 章：护栏/安全模式
+* Gemini Live(Gemini Live) - 附录 B
+* Gems(Gems) - 附录 A
+* 生成媒体编排(Generative Media Orchestration) - 第 10 章：模型上下文协议（MCP）
+* 目标设定(Goal Setting) - 第 11 章：目标设定与监控
+* GoD（辩论图）(GoD, Graph of Debates) - 第 17 章：推理技术
+* Google 智能体开发工具包(Google Agent Development Kit, ADK) - 第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 7 章：多智能体协作，第 8 章：记忆管理，第 12 章：异常处理与恢复，第 13 章：人机协同，第 15 章：Agent 间通信（A2A），第 16 章：资源感知优化，第 19 章：评估与监控，附录 C
+* Google 联合科学家(Google Co-Scientist) - 第 21 章：探索与发现
+* Google DeepResearch(Google DeepResearch) - 第 6 章：规划
+* 辩论图(Graph of Debates, GoD) - 第 17 章：推理技术
+* Google Project Mariner(Google Project Mariner) - 附录 B
+* 优雅降级(Graceful Degradation) - 第 12 章：异常处理与恢复，第 16 章：资源感知优化
+* 基础化(Grounding) - 术语表
+* 护栏(Guardrails) - 第 18 章：护栏/安全模式
 
 **H**
 
-* Haystack - 附录 C
-* Hierarchical Decomposition(层次化分解) - 第 19 章：评估与监控
-* Hierarchical Structures(层次化结构) - 第 7 章：多智能体
-* HITL（人机协同）- 第 13 章：人机协同
-* 人机协同（HITL）- 第 13 章：人机协同
-* HITL (Human-in-the-Loop)(人在环路上) - 第 13 章：人机协同
-* Human-in-the-Loop (HITL)(人类监督) - 第 13 章：人机协同，第 18 章：护栏/安全模式
+* Haystack(Haystack) - 附录 C
+* 层次化分解(Hierarchical Decomposition) - 第 19 章：评估与监控
+* 层次化结构(Hierarchical Structures) - 第 7 章：多智能体协作
+* HITL（人机协同）(HITL, Human-in-the-Loop) - 第 13 章：人机协同
+* 人机协同(Human-in-the-Loop, HITL) - 第 13 章：人机协同
+* 人在环路上(Human-on-the-loop) - 第 13 章：人机协同
+* 人类监督(Human Oversight) - 第 13 章：人机协同，第 18 章：护栏/安全模式
 
 **I**
 
-* In-Context Learning(上下文学习) - 术语表
-* InMemoryMemoryService - 第 8 章：记忆管理
-* InMemorySessionService - 第 8 章：记忆管理
-* Input Validation/Sanitization(输入验证/清理) - 第 18 章：护栏/安全模式
-* Instructions Over Constraints(指令优先于约束) - 附录 A
-*智能体信（A2A）- 第 15 章：Agent 间通信（A2A）
-* Inter-Agent Communication (A2A)(干预与纠正) - 第 13 章：人机协同
-* Intervention and Correction(IoT 设备控制) - 第 10 章：模型上下文协议（MCP）
-* IoT Device Control(迭代提示/细化) - 附录 A
+* 上下文学习(In-Context Learning) - 术语表
+* InMemoryMemoryService(InMemoryMemoryService) - 第 8 章：记忆管理
+* InMemorySessionService(InMemorySessionService) - 第 8 章：记忆管理
+* 输入验证/清理(Input Validation/Sanitization) - 第 18 章：护栏/安全模式
+* 指令优先于约束(Instructions Over Constraints) - 附录 A
+* Agent 间通信(Inter-Agent Communication, A2A) - 第 15 章：Agent 间通信（A2A）
+* 干预与纠正(Intervention and Correction) - 第 13 章：人机协同
+* IoT 设备控制(IoT Device Control) - 第 10 章：模型上下文协议（MCP）
+* 迭代提示/细化(Iterative Prompting / Refinement) - 附录 A
 
 **J**
 
-* Jailbreaking(越狱) - 第 18 章：护栏/安全模式
+* 越狱(Jailbreaking) - 第 18 章：护栏/安全模式
 
 **K**
 
-* Kahneman-Tversky Optimization (KTO)(优化（）) - 术语表
-* 知识检索（RAG）- 第 14 章：知识检索（RAG）
+* Kahneman-Tversky 优化(Kahneman-Tversky Optimization, KTO) - 术语表
+* 知识检索(Knowledge Retrieval, RAG) - 第 14 章：知识检索（RAG）
 
 **L**
 
-* LangChain - 第 1 章：提示链，第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 8 章：记忆管理，第 20 章：优先级排序，附录 C
-* LangGraph - 第 1 章：提示链，第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 8 章：记忆管理，附录 C
-* Latency Monitoring(延迟监控) - 第 19 章：评估与监控
-* Learned Resource Allocation Policies(学习资源分配策略) - 第 16 章：资源感知优化
-* Learning and Adaptation(学习与适应) - 第 9 章：学习与适应
-* LLM-as-a-Judge(LLM 作为裁判) - 第 19 章：评估与监控
-* LlamaIndex - 附录 C
-* LoRA（低秩适应）- 术语表
-* 低秩适应（LoRA）- 术语表
+* LangChain(LangChain) - 第 1 章：提示链，第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 8 章：记忆管理，第 20 章：优先级排序，附录 C
+* LangGraph(LangGraph) - 第 1 章：提示链，第 2 章：路由，第 3 章：并行化，第 4 章：反思，第 5 章：工具使用，第 8 章：记忆管理，附录 C
+* 延迟监控(Latency Monitoring) - 第 19 章：评估与监控
+* 学习资源分配策略(Learned Resource Allocation Policies) - 第 16 章：资源感知优化
+* 学习与适应(Learning and Adaptation) - 第 9 章：学习与适应
+* LLM 作为裁判(LLM-as-a-Judge) - 第 19 章：评估与监控
+* LlamaIndex(LlamaIndex) - 附录 C
+* LoRA（低秩适应）(LoRA, Low-Rank Adaptation) - 术语表
+* 低秩适应(Low-Rank Adaptation, LoRA) - 术语表
 
 **M**
 
-* Mamba - 术语表
-* 掩码语言建模（MLM）- 术语表
-* MASS（多智能体搜索）- 第 17 章：推理技术
-* MCP（模型上下文协议）- 第 10 章：模型上下文协议（MCP）
-* Masked Language Modeling (MLM)(记忆管理) - 第 8 章：记忆管理
-* MASS (Multi-Agent System Search)(基于内存的学习) - 第 9 章：学习与适应
-* MCP (Model Context Protocol) - 附录 C
-* Memory Management - 附录 C
-* 专家混合（MoE）- 术语表
-* 模型上下文协议（MCP）- 第 10 章：模型上下文协议（MCP）
-* Memory-Based Learning(模块化) - 第 18 章：护栏/安全模式
-* MetaGPT(监控) - 第 11 章：目标设定与监控，第 19 章：评估与监控
-* Microsoft AutoGen(多智能体) - 第 7 章：多智能智能体
-* 多智能体搜索（MASS）- 第 17 章：推理技术
-* Mixture of Experts (MoE)(多模态性) - 术语表
-* Model Context Protocol (MCP)(多模态提示) - 附录 A
+* Mamba(Mamba) - 术语表
+* 掩码语言建模(Masked Language Modeling, MLM) - 术语表
+* MASS（多智能体搜索）(MASS, Multi-Agent System Search) - 第 17 章：推理技术
+* MCP（模型上下文协议）(MCP, Model Context Protocol) - 第 10 章：模型上下文协议（MCP）
+* 记忆管理(Memory Management) - 第 8 章：记忆管理
+* 基于内存的学习(Memory-Based Learning) - 第 9 章：学习与适应
+* MetaGPT(MetaGPT) - 附录 C
+* Microsoft AutoGen(Microsoft AutoGen) - 附录 C
+* 专家混合(Mixture of Experts, MoE) - 术语表
+* 模型上下文协议(Model Context Protocol, MCP) - 第 10 章：模型上下文协议（MCP）
+* 模块化(Modularity) - 第 18 章：护栏/安全模式
+* 监控(Monitoring) - 第 11 章：目标设定与监控，第 19 章：评估与监控
+* 多智能体协作(Multi-Agent Collaboration) - 第 7 章：多智能体协作
+* 多智能体搜索(Multi-Agent System Search, MASS) - 第 17 章：推理技术
+* 多模态性(Multimodality) - 术语表
+* 多模态提示(Multimodal Prompting) - 附录 A
 
 **N**
 
-* Negative Examples(负面示例) - 附录 A
-* 下一句预测（NSP）- 术语表
+* 负面示例(Negative Examples) - 附录 A
+* 下一句预测(Next Sentence Prediction, NSP) - 术语表
 
 **O**
 
-* Observability(可观察性) - 第 18 章：护栏/安全模式
-* One-Shot Prompting(单样本提示) - 附录 A
-* Online Learning(在线学习) - 第 9 章：学习与适应
-* OpenAI Deep Research API - 第 6 章：规划
-* OpenEvolve - 第 9 章：学习与适应
-* OpenRouter - 第 16 章：资源感知优化
-* Output Filtering/Post-processing(输出过滤/后处理) - 第 18 章：护栏/安全模式
+* 可观察性(Observability) - 第 18 章：护栏/安全模式
+* 单样本提示(One-Shot Prompting) - 附录 A
+* 在线学习(Online Learning) - 第 9 章：学习与适应
+* OpenAI Deep Research API(OpenAI Deep Research API) - 第 6 章：规划
+* OpenEvolve(OpenEvolve) - 第 9 章：学习与适应
+* OpenRouter(OpenRouter) - 第 16 章：资源感知优化
+* 输出过滤/后处理(Output Filtering/Post-processing) - 第 18 章：护栏/安全模式
 
 **P**
 
-* PAL（程序辅助语言模型）- 第 17 章：推理技术
-* PAL (Program-Aided Language Models)(并行化) - 第 3 章：并行化
-* Parallelization(并行化与分布式计算感知) - 第 16 章：资源感知优化
-* 参数高效微调（PEFT）- 术语表
-* PEFT（参数高效微调）- 术语表
-* Parallelization & Distributed Computing Awareness(性能跟踪) - 第 19 章：评估与监控
-* Parameter-Efficient Fine-Tuning (PEFT)(角色模式) - 附录 A
-* PEFT (Parameter-Efficient Fine-Tuning)(个性化) - 什么使 AI 系统成为 Agent？
-* Performance Tracking(规划) - 第 6 章：规划，术语表
-* Persona Pattern(优先级排序) - 第 20 章：优先级排序
-* Personalization(最小权限原则) - 第 18 章：护栏/安全模式
-* Planning(主动资源预测) - 第 16 章：资源感知优化
-* Prioritization(过程记忆) - 第 8 章：记忆管理
-* 程序辅助语言模型（PAL）- 第 17 章：推理技术
-* Principle of Least Privilege - 附录 B
-* Proactive Resource Prediction(提示词) - 术语表
-* Procedural Memory(提示链) - 第 1 章：提示链
-* Program-Aided Language Models (PAL)(提示工程) - 附录 A
-* 近端策略优化（PPO）- 第 9 章：学习与适应
-* Project Astra(推送通知) - 第 15 章：Agent 间通信（A2A）
+* PAL（程序辅助语言模型）(PAL, Program-Aided Language Models) - 第 17 章：推理技术
+* 并行化(Parallelization) - 第 3 章：并行化
+* 并行化与分布式计算感知(Parallelization &amp; Distributed Computing Awareness) - 第 16 章：资源感知优化
+* 参数高效微调(Parameter-Efficient Fine-Tuning, PEFT) - 术语表
+* PEFT（参数高效微调）(PEFT, Parameter-Efficient Fine-Tuning) - 术语表
+* 性能跟踪(Performance Tracking) - 第 19 章：评估与监控
+* 角色模式(Persona Pattern) - 附录 A
+* 个性化(Personalization) - 什么使 AI 系统成为 Agent？
+* 规划(Planning) - 第 6 章：规划，术语表
+* 优先级排序(Prioritization) - 第 20 章：优先级排序
+* 最小权限原则(Principle of Least Privilege) - 附录 B
+* 主动资源预测(Proactive Resource Prediction) - 第 16 章：资源感知优化
+* 过程记忆(Procedural Memory) - 第 8 章：记忆管理
+* 程序辅助语言模型(Program-Aided Language Models, PAL) - 第 17 章：推理技术
+* 近端策略优化(Proximal Policy Optimization, PPO) - 第 9 章：学习与适应
+* Project Astra(Project Astra) - 附录 B
+* 提示词(Prompt) - 术语表
+* 提示链(Prompt Chaining) - 第 1 章：提示链
+* 提示工程(Prompt Engineering) - 附录 A
+* 推送通知(Push Notifications) - 第 15 章：Agent 间通信（A2A）
 
 **Q**
 
-* QLoRA - 术语表
-* Quality-Focused Iterative Execution(质量导向迭代执行) - 第 19 章：评估与监控
+* QLoRA(QLoRA) - 术语表
+* 质量导向迭代执行(Quality-Focused Iterative Execution) - 第 19 章：评估与监控
 
 **R**
 
-* RAG（检索增强生成）- 第 8 章：内存管理，第 14 章：知识检索（RAG），附录 A
-* ReAct（推理与行动）- 第 17 章：推理技术，附录 A，术语表
-* RAG (Retrieval-Augmented Generation)(推理) - 第 17 章：推理技术
-* ReAct (Reason and Act)(基于推理的信息提取) - 第 10 章：模型上下文协议（MCP）
-* Reasoning(恢复) - 第 12 章：异常处理与恢复
-* 循环神经网络（RNN）- 术语表
-* Reasoning-Based Information Extraction(反思) - 第 4 章：反思
-* Recovery(强化学习) - 第 9 章：学习与适应
-* 基于人类反馈的强化学习（RLHF）- 术语表
-* 可验证奖励的强化学习（RLVR）- 第 17 章：推理技术
-* Recurrent Neural Network (RNN)(远程 Agent) - 第 15 章：Agent 间通信（A2A）
-* 请求/响应（轮询）- 第 15 章：Agent 间通信（A2A）
-* Reflection(资源感知优化) - 第 16 章：资源感知优化
-* 检索增强生成（RAG）- 第 8 章：内存管理，第 14 章：知识检索（RAG），附录 A
-* RLHF（基于人类反馈的强化学习）- 术语表
-* RLVR（可验证奖励的强化学习）- 第 17 章：推理技术
-* RNN（循环神经网络）- 术语表
-* Reinforcement Learning(角色提示) - 附录 A
-* Reinforcement Learning from Human Feedback (RLHF)(路由器 Agent) - 第 16 章：资源感知优化
-* Reinforcement Learning with Verifiable Rewards (RLVR)(路由) - 第 2 章：路由
+* RAG（检索增强生成）(RAG, Retrieval-Augmented Generation) - 第 8 章：记忆管理，第 14 章：知识检索（RAG），附录 A
+* ReAct（推理与行动）(ReAct, Reason and Act) - 第 17 章：推理技术，附录 A，术语表
+* 推理(Reasoning) - 第 17 章：推理技术
+* 基于推理的信息提取(Reasoning-Based Information Extraction) - 第 10 章：模型上下文协议（MCP）
+* 恢复(Recovery) - 第 12 章：异常处理与恢复
+* 循环神经网络(Recurrent Neural Network, RNN) - 术语表
+* 反思(Reflection) - 第 4 章：反思
+* 强化学习(Reinforcement Learning) - 第 9 章：学习与适应
+* 基于人类反馈的强化学习(Reinforcement Learning from Human Feedback, RLHF) - 术语表
+* 可验证奖励的强化学习(Reinforcement Learning with Verifiable Rewards, RLVR) - 第 17 章：推理技术
+* 远程 Agent(Remote Agent) - 第 15 章：Agent 间通信（A2A）
+* 请求/响应（轮询）(Request/Response, Polling) - 第 15 章：Agent 间通信（A2A）
+* 资源感知优化(Resource-Aware Optimization) - 第 16 章：资源感知优化
+* 检索增强生成(Retrieval-Augmented Generation, RAG) - 第 8 章：记忆管理，第 14 章：知识检索（RAG），附录 A
+* RLHF（基于人类反馈的强化学习）(RLHF, Reinforcement Learning from Human Feedback) - 术语表
+* RLVR（可验证奖励的强化学习）(RLVR, Reinforcement Learning with Verifiable Rewards) - 第 17 章：推理技术
+* RNN（循环神经网络）(RNN, Recurrent Neural Network) - 术语表
+* 角色提示(Role Prompting) - 附录 A
+* 路由器 Agent(Router Agent) - 第 16 章：资源感知优化
+* 路由(Routing) - 第 2 章：路由
 
 **S**
 
-* Safety(安全) - 第 18 章：护栏/安全模式
-* Scaling Inference Law(扩展推理法则) - 第 17 章：推理技术
-* Scheduling(调度) - 第 20 章：优先级排序
-* Self-Consistency(自一致性) - 附录 A
-* Self-Correction(自我纠正) - 第 4 章：反思，第 17 章：推理技术
-* 自我改进编码 Agent（SICA）- 第 9 章：学习与适应
-* Self-Improving Coding智能体ICA)(自我细化) - 第 17 章：推理技术
-* Self-Refinement - 附录 C
-* Semantic Kernel(语义记忆) - 第 8 章：记忆管理
-* Semantic Memory(语义相似性) - 第 14 章：知识检索（RAG）
-* Semantic Similarity(关注点分离) - 第 18 章：护栏/安全模式
-* Separation of Concerns(顺序交接) - 第 7 章：多智能体
-* 服务器发送事件（SSE）- 第 15 章：Agent 间通信（A2A）
-* Sequential Handoffs(会话) - 第 8 章：内存管理
-* SICA（自我改进编码 Agent）- 第 9 章：学习与适应
-* Server-Sent Events (SSE)(SMART 目标) - 第 11 章：目标设定与监控
-* Session(状态) - 第 8 章：内存管理
-* SICA (Self-Improving Coding Agent)(状态回滚) - 第 12 章：异常处理与恢复
-* SMART Goals(后退提示) - 附录 A
-* State(流式更新) - 第 15 章：Agent 间通信（A2A）
-* State Rollback(结构化日志) - 第 18 章：护栏/安全模式
-* Step-Back Prompting(结构化输出) - 第 1 章：提示链，附录 A
-* Streaming Updates - 附录 C
-* 监督微调（SFT）- 术语表
-* Structured Logging(监督学习) - 第 9 章：学习与适应
-* Structured Output(系统提示) - 附录 A
+* 安全(Safety) - 第 18 章：护栏/安全模式
+* 扩展推理法则(Scaling Inference Law) - 第 17 章：推理技术
+* 调度(Scheduling) - 第 20 章：优先级排序
+* 自一致性(Self-Consistency) - 附录 A
+* 自我纠正(Self-Correction) - 第 4 章：反思，第 17 章：推理技术
+* 自我改进编码 Agent(Self-Improving Coding Agent, SICA) - 第 9 章：学习与适应
+* 自我细化(Self-Refinement) - 第 17 章：推理技术
+* Semantic Kernel(Semantic Kernel) - 附录 C
+* 语义记忆(Semantic Memory) - 第 8 章：记忆管理
+* 语义相似性(Semantic Similarity) - 第 14 章：知识检索（RAG）
+* 关注点分离(Separation of Concerns) - 第 18 章：护栏/安全模式
+* 顺序交接(Sequential Handoffs) - 第 7 章：多智能体协作
+* 服务器发送事件(Server-Sent Events, SSE) - 第 15 章：Agent 间通信（A2A）
+* 会话(Session) - 第 8 章：记忆管理
+* SICA（自我改进编码 Agent）(SICA, Self-Improving Coding Agent) - 第 9 章：学习与适应
+* SMART 目标(SMART Goals) - 第 11 章：目标设定与监控
+* 状态(State) - 第 8 章：记忆管理
+* 状态回滚(State Rollback) - 第 12 章：异常处理与恢复
+* 后退提示(Step-Back Prompting) - 附录 A
+* 流式更新(Streaming Updates) - 第 15 章：Agent 间通信（A2A）
+* 结构化日志(Structured Logging) - 第 18 章：护栏/安全模式
+* 结构化输出(Structured Output) - 第 1 章：提示链，附录 A
+* SuperAGI(SuperAGI) - 附录 C
+* 监督微调(Supervised Fine-Tuning, SFT) - 术语表
+* 监督学习(Supervised Learning) - 第 9 章：学习与适应
+* 系统提示(System Prompting) - 附录 A
 
 **T**
 
-* Task Evaluation(任务评估) - 第 20 章：优先级排序
-* Text Similarity(文本相似性) - 第 14 章：知识检索（RAG）
-* Token Usage(Token 使用) - 第 19 章：评估与监控
-* Tool Use(工具使用) - 第 5 章：工具使用，附录 A
-* Tool Use Restrictions(工具使用限制) - 第 18 章：护栏/安全模式
-* ToT（思维树）- 第 17 章：推理技术，附录 A，术语表
-* ToT (Tree of Thoughts) - 术语表
-* 思维树（ToT）- 第 17 章：推理技术，附录 A，术语表
+* 任务评估(Task Evaluation) - 第 20 章：优先级排序
+* 文本相似性(Text Similarity) - 第 14 章：知识检索（RAG）
+* Token 使用(Token Usage) - 第 19 章：评估与监控
+* 工具使用(Tool Use) - 第 5 章：工具使用，附录 A
+* 工具使用限制(Tool Use Restrictions) - 第 18 章：护栏/安全模式
+* ToT（思维树）(ToT, Tree of Thoughts) - 第 17 章：推理技术，附录 A，术语表
+* Transformers(Transformers) - 术语表
+* 思维树(Tree of Thoughts, ToT) - 第 17 章：推理技术，附录 A，术语表
 
 **U**
 
-* Unsupervised Learning(无监督学习) - 第 9 章：学习与适应
-* User Persona(用户角色) - 附录 A
+* 无监督学习(Unsupervised Learning) - 第 9 章：学习与适应
+* 用户角色(User Persona) - 附录 A
 
 **V**
 
-* Validation(验证) - 第 3 章：并行化
-* Vector Search(向量搜索) - 第 14 章：知识检索（RAG）
-* VertexAiRagMemoryService - 第 8 章：内存管理
-* VertexAiSessionService - 第 8 章：内存管理
-* Vibe Coding(Vibe 编码) - 附录 B
-* Visual Perception(视觉感知) - 附录 B
+* 验证(Validation) - 第 3 章：并行化
+* 向量搜索(Vector Search) - 第 14 章：知识检索（RAG）
+* VertexAiRagMemoryService(VertexAiRagMemoryService) - 第 8 章：记忆管理
+* VertexAiSessionService(VertexAiSessionService) - 第 8 章：记忆管理
+* Vibe 编码(Vibe Coding) - 附录 B
+* 视觉感知(Visual Perception) - 附录 B
 
 **W**
 
-* Webhooks - 第 15 章：Agent 间通信（A2A）
+* Webhooks(Webhooks) - 第 15 章：Agent 间通信（A2A）
 
 **Z**
 
-* Zero-Shot Learning(零样本学习) - 第 9 章：学习与适应
-* Zero-Shot Prompting(零样本提示) - 附录 A
+* 零样本学习(Zero-Shot Learning) - 第 9 章：学习与适应
+* 零样本提示(Zero-Shot Prompting) - 附录 A
 
 
 ## 提示词

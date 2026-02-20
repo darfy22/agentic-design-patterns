@@ -432,7 +432,7 @@ except RuntimeError as e:
         raise e # 重新引发其他运行时错误
 ```
 
-此脚本使用 Google 的智能体velopment Kit (ADK) 创建一个通过编写和执行 Python 代码解决数学问题的 Agent。它定义了一个 LlmAgent，专门指示其充当计算器，为其配备 built_in_code_execution 工具。主要逻辑位于 call_agent_async 函数中，该函数向智能智能体发送用户查询并处理结果事件。在此函数内部，异步循环遍历事件，打印生成的 Python 代码及其执行结果以进行调试。代码仔细区分这些中间步骤和包含数值答案的最终事件。最后，main 函数使用两个不同的数学表达式运行 Agent，以演示其执行计算的能力。
+此脚本使用 Google 的智能体开发工具包 (ADK) 创建一个通过编写和执行 Python 代码解决数学问题的 Agent。它定义了一个 LlmAgent，专门指示其充当计算器，为其配备 built_in_code_execution 工具。主要逻辑位于 call_agent_async 函数中，该函数向智能智能体发送用户查询并处理结果事件。在此函数内部，异步循环遍历事件，打印生成的 Python 代码及其执行结果以进行调试。代码仔细区分这些中间步骤和包含数值答案的最终事件。最后，main 函数使用两个不同的数学表达式运行 Agent，以演示其执行计算的能力。
 
 **企业搜索：** 此代码使用 Python 中的 google.adk 库定义了一个 Google ADK 应用程序。它专门使用 VSearchAgent，该智能体通过搜索指定的 Vertex AI 搜索数据存储来回答问题。代码初始化一个名为"q2_strategy_vsearch_agent"的 VSearchAgent，提供描述、要使用的模型（"gemini-2.0-flash-exp"）和 Vertex AI 搜索数据存储的 ID。DATASTORE_ID 预期设置为环境变量。然后为智能智能体unner，使用 InMemorySessionService 管理对话历史。定义了异步函数 call_vsearch_agent_async 以与智能体交智能体接受查询，构造消息内容对象，并调用运行器的 run_async 方法将查询发送到 Agent。然后该函数将智能体的响应智能体控制台。它还打印有关最终响应的信息，包括来自数据存储的任何源归因。包含错误处理以捕获智能体执行期间的智能体有关潜在问题（如数据存储 ID 不正确或缺少权限）的信息性消息。提供了另一个异步函数 run_vsearch_example 以演示如何使用示例查询调用 Agent。主执行块检查 DATASTORE_ID 是否已设置，然后使用 asyncio.run 运行示例。它包括检查以处理在已有运行事件循环的环境（如 Jupyter 笔记本）中运行代码的情况。
 
